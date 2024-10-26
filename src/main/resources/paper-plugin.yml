@@ -1,0 +1,7 @@
+name: ${project.name}
+version: ${project.version}
+main: eu.minetag.plugin.MineTagPlugin
+api-version: '1.21'
+authors: [ MrMending ]
+description: MineTag Network API
+website: https://minetag.eu

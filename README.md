@@ -1,3 +1,9 @@
+<div align="center">
+    
+[![](https://jitpack.io/v/teraprath/TinyLib.svg)](https://jitpack.io/#teraprath/TinyLib)
+
+</div>
+
 Maven
 ````xml
 <repository>

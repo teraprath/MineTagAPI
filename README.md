@@ -18,6 +18,7 @@ Maven
     <groupId>com.github.teraprath</groupId>
     <artifactId>MineTagAPI</artifactId>
     <version>{VERSION}</version>
+    <scope>provided</scope>
 </dependency>
 ````
 

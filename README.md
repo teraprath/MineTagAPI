@@ -9,7 +9,7 @@ Maven
 ````xml
 <dependency>
     <groupId>com.github.teraprath</groupId>
-    <artifactId>TinyLib</artifactId>
+    <artifactId>MineTagAPI</artifactId>
     <version>{VERSION}</version>
 </dependency>
 ````
@@ -22,6 +22,6 @@ repositories {
 ````
 ````
 dependencies {
-    implementation 'com.github.teraprath:TinyLib:{VERSION}'
+    implementation 'com.github.teraprath:MineTagAPI:{VERSION}'
 }
 ````

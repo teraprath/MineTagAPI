@@ -1,6 +1,7 @@
 <div align="center">
     
 [![](https://jitpack.io/v/teraprath/MineTagAPI.svg)](https://jitpack.io/#teraprath/MineTagAPI)
+[![CodeFactor](https://www.codefactor.io/repository/github/teraprath/minetagapi/badge/main)](https://www.codefactor.io/repository/github/teraprath/minetagapi/overview/main)
 
 </div>
 

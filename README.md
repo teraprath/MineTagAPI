@@ -1,6 +1,6 @@
 <div align="center">
     
-[![](https://jitpack.io/v/teraprath/TinyLib.svg)](https://jitpack.io/#teraprath/TinyLib)
+[![](https://jitpack.io/v/teraprath/MineTagAPI.svg)](https://jitpack.io/#teraprath/MineTagAPI)
 
 </div>
 

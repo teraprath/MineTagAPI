@@ -1,3 +1,4 @@
+Maven
 ````xml
 <repository>
     <id>jitpack.io</id>
@@ -9,10 +10,11 @@
 <dependency>
     <groupId>com.github.teraprath</groupId>
     <artifactId>TinyLib</artifactId>
-    <version>1.1.0</version>
+    <version>{VERSION}</version>
 </dependency>
 ````
 
+Gradle
 ````groovy
 repositories {
     maven { url 'https://jitpack.io' }
@@ -20,6 +22,6 @@ repositories {
 ````
 ````
 dependencies {
-    implementation 'com.github.teraprath:TinyLib:1.1.0'
+    implementation 'com.github.teraprath:TinyLib:{VERSION}'
 }
 ````
